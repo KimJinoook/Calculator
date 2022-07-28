@@ -9,7 +9,7 @@ import java.awt.event.ActionListener;
 
 import javax.swing.*;
 
-public class Calc extends JFrame {
+public class Calc extends JFrame { 
 
 
     public Calc() {
